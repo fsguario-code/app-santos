@@ -1,0 +1,112 @@
+[
+  {
+    "id": "francisco-de-assis",
+    "nome": "São Francisco de Assis",
+    "dia": "04/10",
+   "imagem": "francisco.jpg",
+    "frase": "Senhor, fazei de mim um instrumento de vossa paz.",
+    "historia": "Nasceu em Assis, na Itália, em 1181. Filho de um comerciante rico, viveu uma juventude mundana até passar por uma conversão profunda. Renunciou aos bens da família, abraçou a pobreza radical e fundou a Ordem dos Frades Menores. Morreu em 1226, aos 44 anos.",
+    "importancia": "Padroeiro dos animais, do meio ambiente e da Itália. É um dos santos mais amados da Igreja, símbolo de humildade, pobreza evangélica e amor à criação.",
+    "doutrina": "Ensinou que a pobreza não é miséria, mas liberdade interior. Via toda a criação como irmã e irmão. Sua espiritualidade resume-se em: abandonar-se à providência de Deus e servir a todos, especialmente os mais pobres.",
+    "fonte": "Vaticano / CNBB"
+  },
+  {
+    "id": "carlo-acutis",
+    "nome": "São Carlo Acutis",
+    "dia": "12/10",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Carlo_Acutis.jpg/400px-Carlo_Acutis.jpg",
+    "frase": "A Eucaristia é a minha autoestrada para o Céu.",
+    "historia": "Nasceu em Londres em 1991 e cresceu em Milão. Garoto comum, apaixonado por computadores e videogames, mas com profunda devoção eucarística. Aos 15 anos, faleceu de leucemia em 2006. Foi beatificado em 2020 e canonizado em 2025.",
+    "importancia": "Primeiro santo millennial. Mostra que a santidade é possível na era digital. Seu exemplo inspira jovens a usar a tecnologia para evangelizar.",
+    "doutrina": "Ensinava que a Eucaristia é o centro da vida cristã e que a internet deve ser usada para o bem. Sua frase marcante: 'Todos nascem como originais, mas muitos morrem como fotocópias'.",
+    "fonte": "Vaticano / CNBB"
+  },
+  {
+    "id": "teresinha-de-lisieux",
+    "nome": "Santa Teresinha de Lisieux",
+    "dia": "01/10",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Th%C3%A9r%C3%A8se_de_Lisieux.jpg/400px-Th%C3%A9r%C3%A8se_de_Lisieux.jpg",
+    "frase": "Quero passar meu céu fazendo o bem na terra.",
+    "historia": "Nasceu na França em 1873. Entrou no Carmelo aos 15 anos e morreu aos 24 de tuberculose. Viveu uma vida escondida, mas deixou escritos que se tornaram um dos maiores tesouros espirituais da Igreja.",
+    "importancia": "Padroeira das missões e dos floristas. Doutora da Igreja. Sua 'pequena via' mostra que a santidade está nas coisas simples do dia a dia.",
+    "doutrina": "Ensinou o caminho da infância espiritual: confiar como uma criança no amor de Deus, fazer pequenas coisas com grande amor, sem buscar grandes feitos.",
+    "fonte": "Vaticano / CNBB"
+  },
+  {
+    "id": "padre-pio",
+    "nome": "São Pio de Pietrelcina",
+    "dia": "23/09",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Padre_Pio.jpg/400px-Padre_Pio.jpg",
+    "frase": "Rezai, esperai, não vos preocupeis.",
+    "historia": "Nasceu na Itália em 1887. Frade capuchinho, recebeu os estigmas de Cristo em 1918, que carregou por 50 anos. Passou a vida em confessionário, atendendo milhares de pessoas. Morreu em 1968.",
+    "importancia": "Um dos santos mais populares do século XX. Padroeiro dos voluntários e da proteção civil. Sua vida foi marcada por sofrimento oferecido por amor.",
+    "doutrina": "Ensinava a confiança total na misericórdia de Deus, a importância da confissão e da oração constante. 'A oração é a chave que abre o coração de Deus'.",
+    "fonte": "Vaticano / CNBB"
+  },
+  {
+    "id": "joao-paulo-ii",
+    "nome": "São João Paulo II",
+    "dia": "22/10",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/John_Paul_II.jpg/400px-John_Paul_II.jpg",
+    "frase": "Não tenhais medo! Abri, escancarai as portas a Cristo.",
+    "historia": "Karol Wojtyła nasceu na Polônia em 1920. Foi bispo, cardeal e papa de 1978 a 2005. Sobreviveu a um atentado em 1981. Viajou pelo mundo inteiro levando a mensagem do Evangelho.",
+    "importancia": "Papa que marcou o século XX, contribuiu para a queda do comunismo na Europa e criou a Jornada Mundial da Juventude. Canonizado em 2014.",
+    "doutrina": "Ensinou a dignidade da pessoa humana, a teologia do corpo e a misericórdia de Deus. Destacou a vocação universal à santidade: 'Todos somos chamados a ser santos'.",
+    "fonte": "Vaticano / CNBB"
+  },
+  {
+    "id": "teresa-de-calcutta",
+    "nome": "Santa Teresa de Calcutá",
+    "dia": "05/09",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mother_Teresa.jpg/400px-Mother_Teresa.jpg",
+    "frase": "Não podemos fazer grandes coisas, apenas pequenas coisas com grande amor.",
+    "historia": "Nasceu na Macedônia em 1910. Missionária na Índia, fundou as Missionárias da Caridade em 1950. Dedicou a vida aos pobres, doentes e moribundos de Calcutá. Morreu em 1997.",
+    "importancia": "Prêmio Nobel da Paz em 1979. Símbolo mundial da caridade cristã. Mostrou que servir os mais pobres é servir a Cristo.",
+    "doutrina": "Ensinava que o amor começa em casa e se manifesta nos gestos concretos. Via Cristo em cada pessoa, especialmente nos mais abandonados. 'Onde não há amor, coloque amor e tirará amor'.",
+    "fonte": "Vaticano / CNBB"
+  },
+  {
+    "id": "santo-antonio",
+    "nome": "Santo Antônio de Pádua",
+    "dia": "13/06",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Santo_Ant%C3%B3nio.jpg/400px-Santo_Ant%C3%B3nio.jpg",
+    "frase": "O amor é a força que move o mundo.",
+    "historia": "Nasceu em Lisboa em 1195. Frade franciscano, pregador brilhante, percorreu a Itália e a França. Morreu em Pádua em 1231, aos 36 anos. É um dos santos mais populares do mundo.",
+    "importancia": "Padroeiro dos noivos, dos perdidos e dos pobres. Doutor da Igreja. Sua devoção é uma das mais difundidas no Brasil.",
+    "doutrina": "Ensinava com simplicidade e unção, levando as pessoas à conversão. Sua pregação era baseada nas Escrituras e no amor a Cristo. 'A língua que não reza não sabe falar de Deus'.",
+    "fonte": "Vaticano / CNBB"
+  },
+  {
+    "id": "sao-jose",
+    "nome": "São José",
+    "dia": "19/03",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Saint_Joseph.jpg/400px-Saint_Joseph.jpg",
+    "frase": "Fazei tudo o que Ele vos disser.",
+    "historia": "Esposo de Maria e pai adotivo de Jesus. Carpinteiro em Nazaré. Homem justo e silencioso, obedeceu à vontade de Deus em tudo. A Igreja não registra suas palavras, mas seus atos.",
+    "importancia": "Padroeiro da Igreja Universal, dos trabalhadores e das famílias. Protetor da Sagrada Família. Seu silêncio é sua maior pregação.",
+    "doutrina": "Ensinou pelo exemplo: trabalho, obediência, castidade, amor à família. Mostra que a santidade pode ser vivida no anonimato e no serviço diário.",
+    "fonte": "Vaticano / CNBB"
+  },
+  {
+    "id": "santa-rita",
+    "nome": "Santa Rita de Cássia",
+    "dia": "22/05",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Santa_Rita.jpg/400px-Santa_Rita.jpg",
+    "frase": "A paz começa em casa.",
+    "historia": "Nasceu na Itália em 1381. Casou-se, sofreu com o marido violento, perdoou-o e, após a morte dele, entrou para o convento agostiniano. Recebeu o estigma da coroa de espinhos.",
+    "importancia": "Padroeira das causas impossíveis e das mulheres maltratadas. Sua vida é exemplo de perdão e fidelidade no sofrimento.",
+    "doutrina": "Ensinava o perdão incondicional, a paciência nas provações e a confiança em Deus nas situações impossíveis. 'O impossível para os homens é possível para Deus'.",
+    "fonte": "Vaticano / CNBB"
+  },
+  {
+    "id": "sao-bento",
+    "nome": "São Bento de Núrsia",
+    "dia": "11/07",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Benedict_of_Nursia.jpg/400px-Benedict_of_Nursia.jpg",
+    "frase": "Ora et labora (Reza e trabalha).",
+    "historia": "Nasceu na Itália por volta de 480. Fundou o mosteiro de Monte Cassino e escreveu a Regra que se tornou base da vida monástica ocidental. Morreu em 547.",
+    "importancia": "Padroeiro da Europa e dos monges. Sua Regra moldou a civilização ocidental e preservou a cultura durante a Idade Média.",
+    "doutrina": "Ensinava equilíbrio entre oração e trabalho, obediência, humildade e vida comunitária. 'Nada anteponha ao amor de Cristo' é o lema de sua Regra.",
+    "fonte": "Vaticano / CNBB"
+  }
+]
